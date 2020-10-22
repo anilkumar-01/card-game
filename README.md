@@ -1,5 +1,5 @@
 # card-game
-Simulation of a card game between 4 players.
+A simple luck based card game between 4 players.
 Logic is written in javascript, html and css.
 
 Basic Rules:
@@ -15,4 +15,4 @@ Victory:
 - If all else fails, the top card (by number value wins).
 - If the top card has the same value, each of the tied players draws a single card from the deck until a winner is found.
 - Only the newly drawn cards are compared to decide a tie. The top card wins a tie.
-- For now the suit (spades/hearts etc...), does not matter.
+- Suit (spades/hearts etc...), does not matter.
